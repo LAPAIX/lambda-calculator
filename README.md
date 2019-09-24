@@ -104,7 +104,7 @@ This is where you're JavaScript skills are really going to be stretched. Remembe
 
 <img src="https://tk-assets.lambdaschool.com/67a0a891-ba8c-429e-8d33-bc9e5b9f4e7c_ScreenShot2019-07-02at5.16.56PM.png" alt="finished calculator" width="400px" />
 
-## Pro Tips:
+## Pro Tips: 
 
 - Plan your app before writing any code. How many components will you be using? And how will they fit together?
 - Where will your data be stored in state? Which components need to receive that data via props?
